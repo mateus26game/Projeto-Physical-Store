@@ -5,27 +5,36 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon --exec ts-node src/server.ts",
-    "build": "tsc",
-    "start": "node dist/server.js"
+    "dev": "ts-node-dev --respawn --transpile-only src/app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateus26game/Projeto-Physical-Store.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mateus26game/Projeto-Physical-Store/issues"
+  },
+  "homepage": "https://github.com/mateus26game/Projeto-Physical-Store#readme",
   "dependencies": {
-    "axios": "^1.8.1",
+    "config": "^3.3.12",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
-    "pg": "^8.13.3",
+    "express-validator": "^7.2.1",
+    "mongose": "^0.0.2-security",
+    "morgan": "^1.10.0",
     "winston": "^3.17.0"
   },
   "devDependencies": {
+    "@types/config": "^3.3.5",
     "@types/express": "^5.0.0",
-    "@types/node": "^22.13.5",
-    "@types/pg": "^8.11.11",
-    "nodemon": "^3.1.9",
-    "ts-node": "^10.9.2",
-    "typescript": "^5.7.3"
+    "@types/mongoose": "^5.11.96",
+    "@types/morgan": "^1.9.9",
+    "@types/node": "^22.13.8",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.8.2"
   }
 }

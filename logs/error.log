@@ -1,0 +1,54 @@
+2025-03-04 10:58:52:5852 - [31merror[39m:[31mnão foi possivel conectar![39m
+2025-03-04 10:58:52:5852 - [31merror[39m:[31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2025-03-04 12:00:42:042 - [31merror[39m:[31mnão foi possivel conectar![39m
+2025-03-04 12:00:42:042 - [31merror[39m:[31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2025-03-04 12:01:44:144 - [31merror[39m:[31mnão foi possivel conectar![39m
+2025-03-04 12:01:44:144 - [31merror[39m:[31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2025-03-04 12:01:49:149 - [31merror[39m:[31mnão foi possivel conectar![39m
+2025-03-04 12:01:49:149 - [31merror[39m:[31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2025-03-04 12:01:58:158 - [31merror[39m:[31mnão foi possivel conectar![39m
+2025-03-04 12:01:58:158 - [31merror[39m:[31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2025-03-04 12:02:24:224 - [31merror[39m:[31mnão foi possivel conectar![39m
+2025-03-04 12:02:24:224 - [31merror[39m:[31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2025-03-04 12:16:45:1645 - [31merror[39m:[31mnão foi possivel conectar![39m
+2025-03-04 12:16:45:1645 - [31merror[39m:[31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2025-03-04 12:21:05:215 - [31merror[39m:[31mnão foi possivel conectar![39m
+2025-03-04 12:21:05:215 - [31merror[39m:[31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2025-03-04 12:21:35:2135 - [31merror[39m:[31mnão foi possivel conectar![39m
+2025-03-04 12:21:35:2135 - [31merror[39m:[31mErro: MongoServerError: bad auth : authentication failed[39m
+2025-03-04 12:22:06:226 - [31merror[39m:[31mnão foi possivel conectar![39m
+2025-03-04 12:22:06:226 - [31merror[39m:[31mErro: MongoServerError: bad auth : authentication failed[39m
+2025-03-04 12:25:52:2552 - [31merror[39m:[31mnão foi possivel conectar![39m
+2025-03-04 12:25:52:2552 - [31merror[39m:[31mErro: MongoServerError: bad auth : authentication failed[39m
+2025-03-04 12:25:57:2557 - [31merror[39m:[31mnão foi possivel conectar![39m
+2025-03-04 12:25:57:2557 - [31merror[39m:[31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2025-03-04 12:26:07:267 - [31merror[39m:[31mnão foi possivel conectar![39m
+2025-03-04 12:26:07:267 - [31merror[39m:[31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2025-03-04 12:26:18:2618 - [31merror[39m:[31mnão foi possivel conectar![39m
+2025-03-04 12:26:18:2618 - [31merror[39m:[31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2025-03-04 12:26:25:2625 - [31merror[39m:[31mnão foi possivel conectar![39m
+2025-03-04 12:26:25:2625 - [31merror[39m:[31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2025-03-04 12:26:33:2633 - [31merror[39m:[31mnão foi possivel conectar![39m
+2025-03-04 12:26:33:2633 - [31merror[39m:[31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2025-03-04 12:26:41:2641 - [31merror[39m:[31mnão foi possivel conectar![39m
+2025-03-04 12:26:41:2641 - [31merror[39m:[31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2025-03-04 12:26:44:2644 - [31merror[39m:[31mnão foi possivel conectar![39m
+2025-03-04 12:26:44:2644 - [31merror[39m:[31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2025-03-04 12:26:53:2653 - [31merror[39m:[31mnão foi possivel conectar![39m
+2025-03-04 12:26:53:2653 - [31merror[39m:[31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2025-03-04 12:28:29:2829 - [31merror[39m:[31mnão foi possivel conectar![39m
+2025-03-04 12:28:29:2829 - [31merror[39m:[31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2025-03-04 12:28:32:2832 - [31merror[39m:[31mnão foi possivel conectar![39m
+2025-03-04 12:28:32:2832 - [31merror[39m:[31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2025-03-04 12:28:45:2845 - [31merror[39m:[31mnão foi possivel conectar![39m
+2025-03-04 12:28:45:2845 - [31merror[39m:[31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2025-03-04 12:29:09:299 - [31merror[39m:[31mnão foi possivel conectar![39m
+2025-03-04 12:29:09:299 - [31merror[39m:[31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2025-03-04 12:29:13:2913 - [31merror[39m:[31mnão foi possivel conectar![39m
+2025-03-04 12:29:13:2913 - [31merror[39m:[31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2025-03-04 12:29:18:2918 - [31merror[39m:[31mnão foi possivel conectar![39m
+2025-03-04 12:29:18:2918 - [31merror[39m:[31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2025-03-04 12:31:02:312 - [31merror[39m:[31mnão foi possivel conectar![39m
+2025-03-04 12:31:02:312 - [31merror[39m:[31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2025-03-04 12:31:03:313 - [31merror[39m:[31mnão foi possivel conectar![39m
+2025-03-04 12:31:03:313 - [31merror[39m:[31mErro: MongoServerError: bad auth : Authentication failed.[39m
