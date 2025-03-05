@@ -39,3 +39,42 @@ export const deleteAllStores = async (req: Request, res: Response) => {
         res.status(500).json({ message: "Erro ao deletar todas as lojas" });
     }
 };
+
+export const deleteStoreByName = async (req: Request, res: Response) => {
+    try {
+        const { nome_da_loja } = req.params; // Obtem o nome da loja a partir dos parâmetros da URL
+        const deletedStore = await StoreModel.findOneAndDelete({ nome_da_loja });
+
+        if (!deletedStore) {
+            res.status(404).json({ message: "Loja não encontrada" });
+        }
+
+        Logger.info(`Loja ${nome_da_loja} foi removida do banco de dados.`);
+        res.status(200).json({ message: `Loja ${nome_da_loja} deletada com sucesso.` });
+    } catch (e: any) {
+        Logger.error(`Erro ao deletar loja: ${e.message}`);
+        res.status(500).json({ message: "Erro ao deletar loja" });
+    }
+};
+
+
+export const updateStoreByName = async (req: Request, res: Response) => {
+    try {
+        const { nome_da_loja } = req.params; // Obtém o nome da loja da URL
+        const updatedStore = await StoreModel.findOneAndUpdate(
+            { nome_da_loja }, // Critério de busca
+            req.body,         // Dados para atualizar
+            { new: true }     // Retorna o documento atualizado
+        );
+
+        if (!updatedStore) {
+            res.status(404).json({ message: "Loja não encontrada" });
+        }
+
+        Logger.info(`Loja ${nome_da_loja} foi atualizada com sucesso.`);
+        res.status(200).json(updatedStore);
+    } catch (e: any) {
+        Logger.error(`Erro ao atualizar loja pelo nome: ${e.message}`);
+        res.status(500).json({ message: "Erro ao atualizar loja" });
+    }
+};

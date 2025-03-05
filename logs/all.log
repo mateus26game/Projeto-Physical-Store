@@ -471,3 +471,33 @@
 2025-03-04 17:24:13:2413 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
 2025-03-04 17:24:26:2426 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
 2025-03-04 17:24:26:2426 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-04 21:59:02:592 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-04 21:59:02:592 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-04 21:59:06:596 - [35mhttp[39m:[35mGET /api/stores 200 - 425 bytes - 112.724 ms[39m
+[35m[39m
+2025-03-04 22:00:19:019 - [32minfo[39m:[32mLoja Loja Exemplo foi removida do banco de dados.[39m
+2025-03-04 22:00:19:019 - [35mhttp[39m:[35mDELETE /api/stores/Loja%20Exemplo 200 - 53 bytes - 77.531 ms[39m
+[35m[39m
+2025-03-04 22:00:24:024 - [35mhttp[39m:[35mGET /api/stores 200 - 2 bytes - 62.851 ms[39m
+[35m[39m
+2025-03-04 22:01:38:138 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-04 22:01:38:138 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-04 22:01:42:142 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-04 22:01:42:142 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-04 22:01:58:158 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-04 22:01:58:158 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-04 22:02:01:21 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-04 22:02:01:21 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-04 22:02:13:213 - [35mhttp[39m:[35mPOST /api/stores 201 - 425 bytes - 103.709 ms[39m
+[35m[39m
+2025-03-04 22:02:15:215 - [35mhttp[39m:[35mGET /api/stores 200 - 425 bytes - 82.512 ms[39m
+[35m[39m
+2025-03-04 22:05:02:52 - [32minfo[39m:[32mLoja Loja Exemplo foi atualizada com sucesso.[39m
+2025-03-04 22:05:02:52 - [35mhttp[39m:[35mPUT /api/stores/Loja%20Exemplo 200 - 421 bytes - 82.687 ms[39m
+[35m[39m
+2025-03-04 22:05:10:510 - [35mhttp[39m:[35mGET /api/stores 200 - 423 bytes - 102.872 ms[39m
+[35m[39m
+2025-03-04 22:05:15:515 - [35mhttp[39m:[35mPOST /api/stores 201 - 425 bytes - 145.502 ms[39m
+[35m[39m
+2025-03-04 22:05:20:520 - [35mhttp[39m:[35mGET /api/stores 200 - 847 bytes - 189.856 ms[39m
+[35m[39m
