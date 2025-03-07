@@ -509,3 +509,527 @@
 2025-03-05 09:36:55:3655 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
 2025-03-05 09:37:16:3716 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
 2025-03-05 09:37:16:3716 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-05 15:43:56:4356 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-05 15:43:56:4356 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-05 15:58:14:5814 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-05 15:58:14:5814 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 20:29:42:2942 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 20:29:42:2942 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 21:22:46:2246 - [35mhttp[39m:[35mGET /api/lojas/54720165 200 - 279 bytes - 608.402 ms[39m
+[35m[39m
+2025-03-06 21:26:19:2619 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 21:26:19:2619 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 21:45:18:4518 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 21:45:18:4518 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 21:45:33:4533 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 21:45:33:4533 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 21:45:37:4537 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 21:45:37:4537 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 21:45:44:4544 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 21:45:44:4544 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 21:46:09:469 - [35mhttp[39m:[35mGET /api/stores 200 - 847 bytes - 111.895 ms[39m
+[35m[39m
+2025-03-06 21:46:11:4611 - [35mhttp[39m:[35mGET /api/lojas/54720165 404 - 157 bytes - 1.298 ms[39m
+[35m[39m
+2025-03-06 21:47:04:474 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 21:47:04:474 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 21:47:11:4711 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 21:47:11:4711 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 21:47:52:4752 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 21:47:52:4752 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 21:48:00:480 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 21:48:00:480 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 21:48:03:483 - [35mhttp[39m:[35mGET /api/lojas 200 - 573 bytes - 1020.371 ms[39m
+[35m[39m
+2025-03-06 21:48:39:4839 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 21:48:39:4839 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 21:48:41:4841 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 21:48:41:4841 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 21:48:47:4847 - [35mhttp[39m:[35mGET /api/lojas/54720165 404 - 157 bytes - 1.664 ms[39m
+[35m[39m
+2025-03-06 21:48:50:4850 - [35mhttp[39m:[35mGET /api/lojas/54720165 404 - 157 bytes - 0.564 ms[39m
+[35m[39m
+2025-03-06 21:48:59:4859 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 21:48:59:4859 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 21:49:01:491 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 21:49:01:491 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 21:49:06:496 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 21:49:06:496 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 21:49:07:497 - [35mhttp[39m:[35mGET /api/lojas/54720165 200 - 279 bytes - 1382.039 ms[39m
+[35m[39m
+2025-03-06 21:49:49:4949 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 21:49:49:4949 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 21:49:51:4951 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 21:49:51:4951 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 21:50:02:502 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 21:50:02:502 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 21:50:03:503 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 21:50:03:503 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 21:50:12:5012 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 21:50:12:5012 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 21:50:18:5018 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 21:50:18:5018 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 21:50:32:5032 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 21:50:32:5032 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 21:51:02:512 - [35mhttp[39m:[35mGET /api/lojas/01001000 200 - 250 bytes - 1045.541 ms[39m
+[35m[39m
+2025-03-06 21:51:26:5126 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 21:51:26:5126 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 21:51:56:5156 - [35mhttp[39m:[35mGET /api/lojas/54720165 200 - 279 bytes - 354.044 ms[39m
+[35m[39m
+2025-03-06 21:52:16:5216 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 21:52:16:5216 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 21:52:22:5222 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 21:52:22:5222 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 21:52:22:5222 - [35mhttp[39m:[35mGET /api/ope/54720165 200 - 583 bytes - 675.012 ms[39m
+[35m[39m
+2025-03-06 21:55:48:5548 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 21:55:48:5548 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 21:55:49:5549 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 21:55:49:5549 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 21:57:58:5758 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 21:57:59:5759 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 21:58:13:5813 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 21:58:13:5813 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 21:58:15:5815 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 21:58:15:5815 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:02:27:227 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:02:27:227 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:02:29:229 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:02:29:229 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:02:54:254 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:02:54:254 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:02:57:257 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:02:57:257 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:03:00:30 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:03:00:30 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:03:05:35 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:03:05:35 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:03:55:355 - [35mhttp[39m:[35mGET /api/distancia/01001000/54720165 200 - 62 bytes - 1993.090 ms[39m
+[35m[39m
+2025-03-06 22:18:47:1847 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:18:47:1847 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:18:53:1853 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:18:53:1853 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:18:55:1855 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:18:55:1855 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:19:01:191 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:19:01:191 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:19:03:193 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:19:03:193 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:19:05:195 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:19:05:195 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:19:07:197 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:19:07:197 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:19:14:1914 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:19:14:1914 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:19:16:1916 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:19:16:1916 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:19:18:1918 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:19:18:1918 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:19:19:1919 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:19:19:1919 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:19:22:1922 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:19:22:1922 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:19:26:1926 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:19:26:1926 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:19:29:1929 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:19:29:1929 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:19:43:1943 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:19:43:1943 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:21:06:216 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:21:06:216 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:21:09:219 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:21:09:219 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:21:29:2129 - [35mhttp[39m:[35mGET /api/distancia/01001000/54720165 200 - 171 bytes - 4298.495 ms[39m
+[35m[39m
+2025-03-06 22:24:11:2411 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:24:11:2411 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:24:22:2422 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:24:22:2422 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:24:30:2430 - [35mhttp[39m:[35mGET /api/distancia/01001000/54720165 200 - 183 bytes - 7029.851 ms[39m
+[35m[39m
+2025-03-06 22:33:06:336 - [35mhttp[39m:[35mGET /api/distancia/54720005/54720165 200 - 192 bytes - 4353.617 ms[39m
+[35m[39m
+2025-03-06 22:54:34:5434 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:54:34:5434 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:54:37:5437 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:54:37:5437 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:54:53:5453 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:54:53:5453 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:54:56:5456 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:54:56:5456 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:55:17:5517 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:55:17:5517 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:55:20:5520 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:55:20:5520 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:58:03:583 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:58:03:583 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:58:26:5826 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:58:26:5826 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:58:28:5828 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:58:28:5828 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:58:36:5836 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:58:36:5836 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 22:58:42:5842 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 22:58:42:5842 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 23:15:31:1531 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 23:15:31:1531 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 23:15:34:1534 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 23:15:34:1534 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 23:15:42:1542 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 23:15:42:1542 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 23:15:49:1549 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 23:15:49:1549 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 23:18:47:1847 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 23:18:47:1847 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 23:19:04:194 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 23:19:04:194 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 23:19:11:1911 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 23:19:11:1911 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 23:22:03:223 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 23:22:03:223 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 23:22:08:228 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 23:22:08:228 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 23:22:17:2217 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 23:22:17:2217 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 23:22:23:2223 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 23:22:23:2223 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 23:22:25:2225 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 23:22:25:2225 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 23:22:28:2228 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 23:22:28:2228 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 23:22:33:2233 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 23:22:33:2233 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 23:22:37:2237 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 23:22:37:2237 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 23:23:12:2312 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 23:23:12:2312 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 23:23:20:2320 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 23:23:20:2320 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 23:23:22:2322 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 23:23:22:2322 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 23:23:24:2324 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 23:23:24:2324 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 23:23:26:2326 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 23:23:26:2326 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 23:23:30:2330 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 23:23:30:2330 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 23:25:00:250 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 23:25:00:250 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 23:25:10:2510 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 23:25:10:2510 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 23:25:12:2512 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 23:25:12:2512 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 23:25:14:2514 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 23:25:14:2514 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 23:26:24:2624 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 23:26:24:2624 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 23:33:44:3344 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 23:33:44:3344 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 23:33:50:3350 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 23:33:50:3350 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 23:34:00:340 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 23:34:00:340 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 23:56:44:5644 - [35mhttp[39m:[35mGET /api/stores 200 - 847 bytes - 713.579 ms[39m
+[35m[39m
+2025-03-06 23:59:19:5919 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 23:59:19:5919 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-06 23:59:23:5923 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-06 23:59:23:5923 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 00:00:35:035 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 00:00:35:035 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 00:00:39:039 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 00:00:39:039 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 00:00:43:043 - [32minfo[39m:[32mTodas as lojas foram removidas do banco de dados.[39m
+2025-03-07 00:00:43:043 - [35mhttp[39m:[35mDELETE /api/stores 200 - 57 bytes - 80.829 ms[39m
+[35m[39m
+2025-03-07 00:00:50:050 - [35mhttp[39m:[35mGET /api/stores 200 - 2 bytes - 89.252 ms[39m
+[35m[39m
+2025-03-07 00:01:32:132 - [35mhttp[39m:[35mPOST /api/stores 201 - 287 bytes - 112.306 ms[39m
+[35m[39m
+2025-03-07 00:01:36:136 - [35mhttp[39m:[35mGET /api/stores 200 - 287 bytes - 62.316 ms[39m
+[35m[39m
+2025-03-07 00:04:17:417 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 00:04:17:417 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 00:12:27:1227 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 00:12:27:1227 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 00:12:29:1229 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 00:12:29:1229 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 00:12:39:1239 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 00:12:39:1239 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 00:12:43:1243 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 00:12:43:1243 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 00:12:47:1247 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 00:12:47:1247 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 00:12:51:1251 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 00:12:51:1251 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 00:26:15:2615 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 00:26:15:2615 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 00:26:20:2620 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 00:26:20:2620 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 00:26:25:2625 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 00:26:25:2625 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 00:26:33:2633 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 00:26:33:2633 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 00:26:35:2635 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 00:26:35:2635 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 00:26:47:2647 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 00:26:47:2647 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 00:26:50:2650 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 00:26:50:2650 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 00:26:58:2658 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 00:26:58:2658 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 00:27:01:271 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 00:27:02:272 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 00:27:07:277 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 00:27:07:277 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 00:32:18:3218 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 00:32:18:3218 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 00:32:35:3235 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 00:32:35:3235 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 00:32:37:3237 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 00:32:37:3237 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 00:32:40:3240 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 00:32:40:3240 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 00:33:00:330 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 00:33:00:330 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 00:34:12:3412 - [35mhttp[39m:[35mGET /api/stores 200 - 287 bytes - 82.762 ms[39m
+[35m[39m
+2025-03-07 14:17:10:1710 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 14:17:10:1710 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 14:17:21:1721 - [35mhttp[39m:[35mPOST /api/stores 500 - 319 bytes - 9.802 ms[39m
+[35m[39m
+2025-03-07 14:17:32:1732 - [35mhttp[39m:[35mGET /api/stores 200 - 287 bytes - 79.014 ms[39m
+[35m[39m
+2025-03-07 14:19:14:1914 - [35mhttp[39m:[35mPOST /api/stores 201 - 297 bytes - 86.457 ms[39m
+[35m[39m
+2025-03-07 14:19:19:1919 - [35mhttp[39m:[35mGET /api/stores 200 - 583 bytes - 76.394 ms[39m
+[35m[39m
+2025-03-07 14:20:28:2028 - [35mhttp[39m:[35mGET /api/distancia/54720165 404 - 40 bytes - 599.358 ms[39m
+[35m[39m
+2025-03-07 14:20:55:2055 - [35mhttp[39m:[35mGET /api/distancia/54720165 404 - 40 bytes - 449.609 ms[39m
+[35m[39m
+2025-03-07 14:21:58:2158 - [35mhttp[39m:[35mGET /api/distancia/54720165 404 - 40 bytes - 460.003 ms[39m
+[35m[39m
+2025-03-07 14:37:37:3737 - [35mhttp[39m:[35mGET /api/distancia/54720165 404 - 40 bytes - 477.241 ms[39m
+[35m[39m
+2025-03-07 14:39:36:3936 - [35mhttp[39m:[35mGET /api/distancia/54720-165 404 - 40 bytes - 368.394 ms[39m
+[35m[39m
+2025-03-07 14:39:40:3940 - [35mhttp[39m:[35mGET /api/distancia/54720-165 404 - 40 bytes - 370.445 ms[39m
+[35m[39m
+2025-03-07 14:39:43:3943 - [35mhttp[39m:[35mGET /api/distancia/54720-165 404 - 40 bytes - 486.668 ms[39m
+[35m[39m
+2025-03-07 14:39:47:3947 - [35mhttp[39m:[35mGET /api/distancia/54720165 404 - 40 bytes - 616.885 ms[39m
+[35m[39m
+2025-03-07 14:41:02:412 - [35mhttp[39m:[35mGET /api/stores 200 - 583 bytes - 873.568 ms[39m
+[35m[39m
+2025-03-07 14:41:07:417 - [35mhttp[39m:[35mGET /api/lojas/01001000 200 - 250 bytes - 408.948 ms[39m
+[35m[39m
+2025-03-07 14:41:12:4112 - [35mhttp[39m:[35mGET /api/lojas/54720165 200 - 279 bytes - 120.873 ms[39m
+[35m[39m
+2025-03-07 14:42:31:4231 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 14:42:31:4231 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 14:42:50:4250 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 14:42:50:4250 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 14:42:54:4254 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 14:42:54:4254 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 14:43:11:4311 - [35mhttp[39m:[35mGET /api/distancia/54720165 404 - 40 bytes - 448.123 ms[39m
+[35m[39m
+2025-03-07 14:43:14:4314 - [35mhttp[39m:[35mGET /api/distancia/54720165 404 - 40 bytes - 543.171 ms[39m
+[35m[39m
+2025-03-07 14:43:51:4351 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 14:43:51:4351 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 14:43:53:4353 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 14:43:53:4353 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 14:43:56:4356 - [35mhttp[39m:[35mGET /api/distancia/54720165 404 - 40 bytes - 424.524 ms[39m
+[35m[39m
+2025-03-07 14:44:13:4413 - [35mhttp[39m:[35mGET /api/distancia/54720165 404 - 40 bytes - 634.147 ms[39m
+[35m[39m
+2025-03-07 14:44:42:4442 - [35mhttp[39m:[35mGET /api/distancia/54720165 404 - 40 bytes - 362.067 ms[39m
+[35m[39m
+2025-03-07 14:45:44:4544 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 14:45:44:4544 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 14:45:45:4545 - [35mhttp[39m:[35mGET /api/distancia/54720165 200 - 40 bytes - 523.641 ms[39m
+[35m[39m
+2025-03-07 14:45:50:4550 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 14:45:50:4550 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 14:45:55:4555 - [35mhttp[39m:[35mGET /api/distancia/54720165 200 - 40 bytes - 442.124 ms[39m
+[35m[39m
+2025-03-07 14:46:01:461 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 14:46:01:461 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 14:46:04:464 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 14:46:04:464 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 14:46:09:469 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 14:46:09:469 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 14:46:12:4612 - [35mhttp[39m:[35mGET /api/distancia/54720165 200 - 40 bytes - 536.181 ms[39m
+[35m[39m
+2025-03-07 14:47:32:4732 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 14:47:32:4732 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 14:47:40:4740 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 14:47:40:4740 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 14:47:41:4741 - [35mhttp[39m:[35mGET /api/lojas/54720165 200 - 279 bytes - 424.313 ms[39m
+[35m[39m
+2025-03-07 14:48:02:482 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 14:48:02:482 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 14:48:08:488 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 14:48:15:4815 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 14:48:15:4815 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 14:48:32:4832 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 14:48:32:4832 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 14:48:35:4835 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 14:48:35:4835 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 14:48:35:4835 - [35mhttp[39m:[35mGET /api/lojasa/54720165 200 - 279 bytes - 365.103 ms[39m
+[35m[39m
+2025-03-07 14:48:49:4849 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 14:48:49:4849 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 14:48:58:4858 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 14:48:58:4858 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 14:49:02:492 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 14:49:02:492 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 14:49:22:4922 - [35mhttp[39m:[35mGET /api/lojasa/54720165 200 - 279 bytes - 386.035 ms[39m
+[35m[39m
+2025-03-07 14:49:26:4926 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 14:49:26:4926 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 14:49:32:4932 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 14:49:32:4932 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 14:49:35:4935 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 14:49:35:4935 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 14:49:37:4937 - [35mhttp[39m:[35mGET /api/lojasa/54720165 200 - 279 bytes - 445.965 ms[39m
+[35m[39m
+2025-03-07 14:49:37:4937 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 14:49:37:4937 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 15:50:59:5059 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 15:50:59:5059 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 15:51:03:513 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 15:51:03:513 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 15:51:05:515 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 15:51:05:515 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:14:29:1429 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:14:29:1429 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:14:46:1446 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:14:46:1446 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:14:51:1451 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:14:51:1451 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:16:06:166 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:16:06:166 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:16:21:1621 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:16:21:1621 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:16:40:1640 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:16:40:1640 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:16:42:1642 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:16:42:1642 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:16:47:1647 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:16:47:1647 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:16:51:1651 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:16:51:1651 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:16:56:1656 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:16:56:1656 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:16:57:1657 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:16:57:1657 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:17:30:1730 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:17:30:1730 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:17:35:1735 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:17:35:1735 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:17:44:1744 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:17:44:1744 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:18:02:182 - [35mhttp[39m:[35mGET /api/lojass/54720165 200 - 872 bytes - 881.005 ms[39m
+[35m[39m
+2025-03-07 16:22:14:2214 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:22:14:2214 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:24:33:2433 - [35mhttp[39m:[35mGET / 404 - 139 bytes - 7.139 ms[39m
+[35m[39m
+2025-03-07 16:29:27:2927 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:29:27:2927 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:29:30:2930 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:29:30:2930 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:30:10:3010 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:30:10:3010 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:30:13:3013 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:30:13:3013 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:30:25:3025 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:30:25:3025 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:30:40:3040 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:30:40:3040 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:30:42:3042 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:30:42:3042 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:30:44:3044 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:30:44:3044 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:30:51:3051 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:30:51:3051 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:30:53:3053 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:30:53:3053 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:30:59:3059 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:30:59:3059 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:31:05:315 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:31:05:315 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:35:34:3534 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:35:34:3534 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:35:47:3547 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:35:47:3547 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:35:59:3559 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:35:59:3559 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:36:04:364 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:36:04:364 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:36:12:3612 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:36:12:3612 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:36:13:3613 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:36:13:3613 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:37:03:373 - [35mhttp[39m:[35mGET /api/lojass/54720165 200 - 1173 bytes - 1742.778 ms[39m
+[35m[39m
+2025-03-07 16:49:20:4920 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:49:20:4920 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:49:22:4922 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:49:22:4922 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:49:26:4926 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:49:26:4926 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:51:01:511 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:51:01:511 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:51:04:514 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:51:04:514 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:52:07:527 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:52:07:527 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:52:13:5213 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:52:13:5213 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:52:17:5217 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:52:17:5217 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:52:19:5219 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:52:19:5219 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:52:21:5221 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:52:21:5221 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:52:25:5225 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:52:25:5225 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:54:53:5453 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:54:53:5453 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:54:55:5455 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:54:55:5455 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:55:07:557 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:55:07:557 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:55:10:5510 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:55:10:5510 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:55:16:5516 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:55:16:5516 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:55:28:5528 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:55:28:5528 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:56:30:5630 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:56:30:5630 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:56:35:5635 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 16:56:35:5635 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 16:56:38:5638 - [35mhttp[39m:[35mGET /api/lojass/54720165 200 - 913 bytes - 1486.214 ms[39m
+[35m[39m
+2025-03-07 16:57:20:5720 - [35mhttp[39m:[35mGET /api/lojass/54720000 200 - 923 bytes - 1285.012 ms[39m
+[35m[39m
+2025-03-07 16:59:16:5916 - [35mhttp[39m:[35mGET /api/stores 200 - 583 bytes - 64.593 ms[39m
+[35m[39m
+2025-03-07 20:40:29:4029 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 20:40:29:4029 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 20:40:40:4040 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 20:40:40:4040 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 20:40:42:4042 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 20:40:42:4042 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 20:40:48:4048 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 20:40:48:4048 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 20:41:45:4145 - [32minfo[39m:[32mConectou ao banco de dadoa[39m
+2025-03-07 20:41:45:4145 - [32minfo[39m:[32mAplicacao esta na porta 3000[39m
+2025-03-07 20:41:47:4147 - [35mhttp[39m:[35mGET /api/stores 200 - 583 bytes - 607.184 ms[39m
+[35m[39m

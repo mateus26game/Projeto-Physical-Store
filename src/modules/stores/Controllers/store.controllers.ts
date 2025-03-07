@@ -1,8 +1,10 @@
 import { Request, Response } from "express";
 import { StoreModel } from "../models/store.movie";
 import Logger from "../../../../config/logger";
+import buscarCEP from "../services/viaCepService";
+import { LocationService, StoreService } from "../services/nominatim";
 
-// Criar uma ou várias lojas
+// metodo post
 export const createStores = async (req: Request, res: Response) => {
     try {
         // Se for um único objeto (não é um array), coloca ele em um array
@@ -17,7 +19,7 @@ export const createStores = async (req: Request, res: Response) => {
 };
 
 
-// Buscar todas as lojas
+// mwtuto get
 export const getStores = async (req: Request, res: Response) => {
     try {
         const stores = await StoreModel.find();
@@ -28,7 +30,7 @@ export const getStores = async (req: Request, res: Response) => {
     }
 };
 
-
+// apagar tudo nesssa porra
 export const deleteAllStores = async (req: Request, res: Response) => {
     try {
         await StoreModel.deleteMany({}); // Apaga todos os registros da coleção
@@ -40,6 +42,8 @@ export const deleteAllStores = async (req: Request, res: Response) => {
     }
 };
 
+
+// get diferente
 export const deleteStoreByName = async (req: Request, res: Response) => {
     try {
         const { nome_da_loja } = req.params; // Obtem o nome da loja a partir dos parâmetros da URL
@@ -57,7 +61,7 @@ export const deleteStoreByName = async (req: Request, res: Response) => {
     }
 };
 
-
+// atualiza os dados da tabela quase inutil
 export const updateStoreByName = async (req: Request, res: Response) => {
     try {
         const { nome_da_loja } = req.params; // Obtém o nome da loja da URL
@@ -78,3 +82,21 @@ export const updateStoreByName = async (req: Request, res: Response) => {
         res.status(500).json({ message: "Erro ao atualizar loja" });
     }
 };
+
+// get de via cep inutel tambem
+export const buscarEnderecoComLoja = async (req: Request, res: Response) => {
+    const { cep } = req.params;  // Pega o 'cep' da URL
+    
+    // Chama a função que consulta o ViaCEP com o 'cep' da URL
+    const endereco = await buscarCEP(cep);
+    
+    if (!endereco) {
+         res.status(404).json({ message: "Endereço não encontrado." });
+    }
+
+   res.status(200).json({
+        endereco
+    });
+};
+
+

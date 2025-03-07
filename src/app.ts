@@ -7,13 +7,13 @@ const app = express()
 
 app.use(express.json());
 
-import db from "../../../../config/db"
+import db from "../config/db"
 
-import router from "../routes/router";
+import router from "./modules/stores/routes/router";
 
-import Logger from "../../../../config/logger";
+import Logger from "../config/logger";
 
-import morganMiddleware from "../middleware/store.Middlewarw";
+import morganMiddleware from "./modules/stores/middleware/store.Middlewarw";
 
 app.use(morganMiddleware);
 
