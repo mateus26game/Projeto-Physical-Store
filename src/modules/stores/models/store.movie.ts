@@ -14,5 +14,4 @@ const storeSchema = new Schema(
     }
 );
 
-// Exporta o modelo da loja com base no esquema criado
 export const StoreModel = model("Store", storeSchema);

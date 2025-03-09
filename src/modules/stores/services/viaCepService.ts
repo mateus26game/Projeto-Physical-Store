@@ -1,6 +1,6 @@
 import axios from "axios";
 
-// Função que consulta o ViaCEP
+// Função ViaCEP
 const buscarCEP = async (cep: string) => {
     try {
         const response = await axios.get(`https://viacep.com.br/ws/${cep}/json/`);
