@@ -3,6 +3,9 @@
 ## Descrição do Projeto
 O **Physical Store** é uma API desenvolvida em TypeScript que permite localizar lojas físicas com base em um CEP informado pelo usuário. Utilizando a API do ViaCEP para consulta de endereços e a API do OpenStreetMap (Nominatim) para geolocalização, a aplicação retorna as lojas mais próximas dentro de um raio de 100 km.
 
+## Link da ADR
+Para detalhes sobre as decisões arquiteturais do projeto, consulte o documento: [ADR - Physical Store](https://docs.google.com/document/d/1alMUdbnWIC-r42RfkNCgFs51rrWxkqEQZJxjRq1s3MQ/edit?usp=sharing)
+
 ## Tecnologias Utilizadas
 * **TypeScript** - Melhor tipagem e segurança no código.
 * **Express** - Framework para criação de rotas e controle HTTP.
@@ -40,9 +43,6 @@ A organização do projeto segue o padrão MVC, separando responsabilidades para
   * `LocationService` - Converte CEPs em coordenadas geográficas.
 * **Middlewares**
   * `Winston` e `Morgan` - Gerenciam logs de eventos e requisições HTTP.
-
-## Link da ADR
-Para detalhes sobre as decisões arquiteturais do projeto, consulte o documento: [ADR - Physical Store](https://docs.google.com/document/d/1alMUdbnWIC-r42RfkNCgFs51rrWxkqEQZJxjRq1s3MQ/edit?usp=sharing)
 
 ---
 Este projeto foi desenvolvido seguindo boas práticas de desenvolvimento, garantindo um código organizado, modular e escalável.
