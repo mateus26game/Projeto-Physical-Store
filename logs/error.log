@@ -52,3 +52,8 @@
 2025-03-04 12:31:02:312 - [31merror[39m:[31mErro: MongoServerError: bad auth : Authentication failed.[39m
 2025-03-04 12:31:03:313 - [31merror[39m:[31mnão foi possivel conectar![39m
 2025-03-04 12:31:03:313 - [31merror[39m:[31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2025-03-04 22:24:16:2416 - [31merror[39m:[31mnão foi possivel conectar![39m
+2025-03-04 22:24:16:2416 - [31merror[39m:[31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2025-03-05 09:36:55:3655 - [31merror[39m:[31mnão foi possivel conectar![39m
+2025-03-05 09:36:55:3655 - [31merror[39m:[31mErro: MongoServerError: bad auth : Authentication failed.[39m
+2025-03-09 00:39:03:393 - [31merror[39m:[31mErro ao atualizar loja pelo nome: Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id'[39m
